@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /moxy/Dockerfile
+run:
+   worker: npm start
