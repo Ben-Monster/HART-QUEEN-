@@ -9,3 +9,7 @@
 The WhatsApp bot come back from death 
 
 ![logo](https://i.ibb.co/Hhd9fpR/images-5.jpg) 
+
+  ### Deploy server 1
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ben-Monster/Moxy)
