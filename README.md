@@ -5,5 +5,9 @@
 </p>
 
 <div align="center">
-# Moxy
-The WhatsApp bot come back from death 
+<h1 align="center"><b> MOXY </b></h1>
+
+<h1 align="center"><b> The WhatsApp bot come back from death </b></h1>
+
+
+ 
